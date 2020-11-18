@@ -6,4 +6,6 @@ What Third is used ? For API calling i'm using Retrofit. For managing sizing for
 
 No Bugs so far.
 
+Skiped aPI filters for selecting category, difficulty level and question types. (As i mentioned above i had very busy schedule.) But that can be done by adding spinners and on base of the spinner selection data will be fetched.
+
 Any Improvements ? App UI could be made better and interective but unfortunately i had very busy schedule that's why could not focus on UI. I'm showing all questions in the Recyclerview but these can also be shown one by one with next button to go to the next button.
